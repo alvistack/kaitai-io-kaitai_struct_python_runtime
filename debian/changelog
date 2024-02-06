@@ -1,0 +1,5 @@
+python-kaitaistruct (100:0.10-1) UNRELEASED; urgency=medium
+
+  * https://github.com/kaitai-io/kaitai_struct_python_runtime/releases/tag/0.10
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 06 Feb 2024 23:06:11 +0800

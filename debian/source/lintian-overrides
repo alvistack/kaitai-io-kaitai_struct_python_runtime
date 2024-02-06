@@ -1,0 +1,5 @@
+python-kaitaistruct source: file-without-copyright-information
+python-kaitaistruct source: no-debian-changes
+python-kaitaistruct source: source-contains-prebuilt-windows-binary
+python-kaitaistruct source: source-is-missing
+python-kaitaistruct source: source-package-encodes-python-version
