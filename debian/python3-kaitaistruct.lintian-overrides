@@ -1,0 +1,4 @@
+python3-kaitaistruct: copyright-without-copyright-notice
+python3-kaitaistruct: initial-upload-closes-no-bugs
+python3-kaitaistruct: no-manual-page
+python3-kaitaistruct: zero-byte-file-in-doc-directory
